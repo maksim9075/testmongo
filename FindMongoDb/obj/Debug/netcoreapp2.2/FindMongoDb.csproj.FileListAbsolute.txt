@@ -1,0 +1,12 @@
+D:\Работа\Retail\FindMongoDb\FindMongoDb\bin\Debug\netcoreapp2.2\FindMongoDb.deps.json
+D:\Работа\Retail\FindMongoDb\FindMongoDb\bin\Debug\netcoreapp2.2\FindMongoDb.runtimeconfig.json
+D:\Работа\Retail\FindMongoDb\FindMongoDb\bin\Debug\netcoreapp2.2\FindMongoDb.runtimeconfig.dev.json
+D:\Работа\Retail\FindMongoDb\FindMongoDb\bin\Debug\netcoreapp2.2\FindMongoDb.dll
+D:\Работа\Retail\FindMongoDb\FindMongoDb\bin\Debug\netcoreapp2.2\FindMongoDb.pdb
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.csprojAssemblyReference.cache
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.AssemblyInfoInputs.cache
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.AssemblyInfo.cs
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.csproj.CoreCompileInputs.cache
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.dll
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.pdb
+D:\Работа\Retail\FindMongoDb\FindMongoDb\obj\Debug\netcoreapp2.2\FindMongoDb.genruntimeconfig.cache
